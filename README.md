@@ -1,1 +1,1 @@
-# Eslat
+eSlate is a beautiful, useful, advanced digital slate for iPad, iPhone and iPod Touch.Tap the striped area on the head to clap the board, Tap the text on the board to edit the slate. If you don’t need to edit it temporarily, you can click the lock button, and it will not be editable. When the lock is opened, you can edit it again. You have nine different styles of modes to choose from, and you can choose the one you like.
